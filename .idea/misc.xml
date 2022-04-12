@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_btn.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_exbtn.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_exbtnuser.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_tasks.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_widget.xml" value="0.2324074074074074" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_widget_button.xml" value="0.2324074074074074" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_forunclicked.xml" value="0.21837606837606838" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_froclicked.xml" value="0.21837606837606838" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_arrow.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_bee_path.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_icon.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_iconbase.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_kalendar.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_mesecpoz.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_parent.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_personal_use.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_plus.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout-v21/activity_kalendar.xml" value="0.23461538461538461" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout-v21/activity_worker.xml" value="0.25" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_child.xml" value="0.28931623931623934" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_child_worker.xml" value="0.22419928825622776" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_kalendar.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_main.xml" value="0.24572649572649571" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_parent_builder.xml" value="0.22094017094017093" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_parent_caller.xml" value="0.23034188034188033" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_parent_worker.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_worker.xml" value="0.22" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/calendar_cell.xml" value="0.67" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/deletetask.xml" value="0.5" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/languages.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.24145299145299146" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/layout_rutine.xml" value="0.20726495726495728" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/layout_widget.xml" value="0.33" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/list_layout.xml" value="0.24572649572649571" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/lista_taskova.xml" value="0.258974358974359" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/settings.xml" value="0.33" />
+        <entry key="..\:/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/xml/appwidget_info.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/background_for_btn.xml" value="0.3141025641025641" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/background_for_exbtn.xml" value="0.21495726495726497" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/background_for_exbtnuser.xml" value="0.21495726495726497" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/background_for_tasks.xml" value="0.310126582278481" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/clock.xml" value="0.3141025641025641" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21770833333333334" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/ic_main_bg.xml" value="0.325" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/ic_personal_use.xml" value="0.22135416666666666" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/ic_suncepoz.xml" value="0.21495726495726497" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/suncemesec.xml" value="0.3141025641025641" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/drawable/task.xml" value="0.21495726495726497" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/font-mcc381/aristotelica.xml" value="0.29583333333333334" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/font/fontzabrojke.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout-v21/activity_kalendar.xml" value="0.36666666666666664" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout-v21/activity_worker.xml" value="0.25" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/activity_kalendar.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/activity_worker.xml" value="0.22" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/activity_worker2.xml" value="0.2547008547008547" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/calendar_cell.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.30085470085470084" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/BeeOrganised/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/arrowspinner.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_for_exbtn.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_forunclicked.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/background_froclicked.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/daynight.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/fontforspinner.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_amclock.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_amclock_ontop.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_checkbox_checked.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_clock.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_clockam.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_datum_fixed_fixed.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_mesec.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_mesecpoz.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_mesecpoz_fixed.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_repeatingtask.xml" value="0.24722222222222223" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_settingsheaderleft.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_settingsheaderright.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/ic_sunce.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/space.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/spinner.xml" value="0.2" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/spinnera.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/spinnerhelp.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/spinnerstyle.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/spinnertext.xml" value="0.2421875" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/suncemesec.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/drawable/trans.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/font/spinnerfont.xml" value="0.2796296296296296" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout-v21/activity_kalendar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout-v21/activity_worker.xml" value="0.264" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_loading_screen.xml" value="0.2" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_main.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/activity_worker.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/calendar_cell.xml" value="0.4" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/colorpicker.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/deletetask.xml" value="0.4" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/languages.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/layout_bottom_sheet.xml" value="0.4" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/layout_rutine.xml" value="0.72" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/list_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/lista_taskova.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Teodora/Desktop/BeeOgranisedFrontEnd/BeeOrganised/app/src/main/res/layout/settings.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

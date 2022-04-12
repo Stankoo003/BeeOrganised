@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Widget.Theme.BeeOrganised.ActionBar.Fullscreen" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+
+    </style>
+
+
+    <style name="BottomSheetStyle2" parent="Theme.Design.Light.NoActionBar">
+    </style>
+    <style name="BottomSheetStyle" parent="BottomSheetStyle2">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+    <style name="Spinner1" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@color/DateColor</item>
+        <item name="android:fontFamily">@font/brojke</item>
+        <item name="android:textSize">14.5sp</item>
+        <item name="android:dropDownListViewStyle">@style/SpinnerStyle</item>
+    </style>
+    <style name="Spinner2" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@color/DateColor</item>
+        <item name="android:fontFamily">@font/font</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:dropDownListViewStyle">@style/SpinnerStyle</item>
+    </style>
+    <style name="Spinner3" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textColor">@color/DateColor</item>
+        <item name="android:fontFamily">@font/font</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:dropDownListViewStyle">@style/SpinnerStyle</item>
+    </style>
+    <style name="SpinnerStyle" parent="Widget.AppCompat.ListView.DropDown">
+    <item name="android:divider">@color/DarkBrwn</item>
+        <item name="android:dividerHeight">1dp</item></style>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <item name="fontFamily">@font/brojke</item>
+        <item name="android:textColor">@color/DateColor</item>
+        <item name="colorAccent">@color/BeeText</item>
+        <item name="android:timePickerStyle">@style/MyTimePickerLight</item>
+
+
+        <item name="colorPrimary">@color/UserChosing</item>
+        <item name="colorPrimaryDark">@color/BeeText</item>
+        <item name="android:textColorPrimary">@color/DateColor</item>
+        <item name="android:textColorPrimaryInverse">@color/BehindCalendar</item>
+        <item name="clockNumberTextColor">@color/DateColor </item>
+        <item name="colorSecondary">@color/DateColor</item>
+        <item name="android:textColorSecondary">#86614E</item>
+        <item name="android:textColorSecondaryInverse">#86614E</item>
+        <item name="colorControlHighlight">@color/BehindCalendar</item>
+
+ </style>
+
+
+    <style name="MyTimePickerLight" parent="android:Widget.Material.Light.TimePicker">
+        <item name="fontFamily">@font/brojke</item>
+        <item name="android:textColor">@color/DateColor</item>
+        <item name="android:headerBackground">@color/BeeText</item>
+        <item name="android:numbersTextColor">@color/DateColor</item>
+        <item name="android:numbersSelectorColor">@color/UserChosing</item>
+        <item name="android:numbersBackgroundColor">@color/ClockBckg</item>
+        <item name="android:background">@color/UserChosing</item>
+    </style>
+    <style name="Theme.AppCompat.Button" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:background">@drawable/background_for_exbtn</item>
+
+
+    </style>
+
+</resources>
